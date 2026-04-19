@@ -1,7 +1,28 @@
 {
+  "name": "prodigy-fs-01-frontend",
+  "version": "1.0.0",
+  "description": "Frontend for PRODIGY_FS_01 — Secure User Authentication",
+  "private": true,
+  "proxy": "http://localhost:5050",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
   "dependencies": {
     "axios": "^1.7.7",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
     "react-router-dom": "^6.27.0",
+    "react-scripts": "5.0.1",
     "react-toastify": "^10.0.6"
+  },
+  "eslintConfig": {
+    "extends": ["react-app"]
+  },
+  "browserslist": {
+    "production": [">0.2%", "not dead", "not op_mini all"],
+    "development": ["last 1 chrome version", "last 1 firefox version", "last 1 safari version"]
   }
 }
