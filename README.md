@@ -12,9 +12,9 @@ Implements a complete user authentication system with registration, login, JWT-b
 
 ## Screenshots
 
-![Landing page](screenshots/admin.png)
+![Landing page](screenshots/landing.png)
 
-![Admin panel](screenshots/landing.png)
+![Admin panel](screenshots/admin.png)
 
 ---
 
