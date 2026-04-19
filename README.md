@@ -12,9 +12,9 @@ Implements a complete user authentication system with registration, login, JWT-b
 
 ## Screenshots
 
-![Landing page](screenshots/image.png)
+![Landing page](screenshots/admin.png)
 
-![Admin panel](screenshots/image%20copy.png)
+![Admin panel](screenshots/landing.png)
 
 ---
 
@@ -184,7 +184,6 @@ All `/api/auth` routes are rate-limited to 20 requests per 15 minutes per IP.
 
 **Arun Teja Reddy Kallam**
 
-- GitHub: [akallam04](https://github.com/akallam04)
 - LinkedIn: [akallam3](https://linkedin.com/in/akallam3)
 - Portfolio: [arunkallam.vercel.app](https://arunkallam.vercel.app)
 
